@@ -1,1 +1,1 @@
-first line of jenkins code
+echo "first line of jenkins code"
